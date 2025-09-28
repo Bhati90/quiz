@@ -114,11 +114,18 @@ export const QuizHomePage: React.FC = () => {
                         <Paper sx={{ p: 3, bgcolor: '#111111', color: 'primary.contrastText', borderRadius: '16px' }}>
                             <Typography variant="h3">Daily Deck</Typography>
                             <Typography sx={{ color: '#CFE6E3', my: 1 }}>5 questions/day tuned to your grade &amp; streak.</Typography>
-                            <Button variant="contained" color="secondary"sx =  {{ bgcolor: '#fff' }}>
-                                <a href = "https://heartfelt-concha-d13c4b.netlify.app/" color='#fff'>
-                                Start
-                                </a>
-                            </Button>
+                            <Button variant="contained" color="secondary" sx={{ bgcolor: '#fff' }}>
+  <a
+    href="https://heartfelt-concha-d13c4b.netlify.app/"
+    style={{
+      color: '#fff',          // white text
+      textDecoration: 'none'  // remove underline
+    }}
+  >
+    Start
+  </a>
+</Button>
+
                         </Paper>
                     </Box>
                     <Box sx={{ flex: 1 }}>
