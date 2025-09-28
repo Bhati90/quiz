@@ -118,7 +118,7 @@ export const QuizHomePage: React.FC = () => {
   <a
     href="https://heartfelt-concha-d13c4b.netlify.app/"
     style={{
-      color: '#fff',          // white text
+      color: '#111111',          // white text
       textDecoration: 'none'  // remove underline
     }}
   >
