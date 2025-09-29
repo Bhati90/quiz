@@ -116,7 +116,7 @@ export const QuizHomePage: React.FC = () => {
                             <Typography sx={{ color: '#CFE6E3', my: 1 }}>5 questions/day tuned to your grade &amp; streak.</Typography>
                             <Button variant="contained" color="secondary" sx={{ bgcolor: '#fff' }}>
   <a
-    href="https://heartfelt-concha-d13c4b.netlify.app/"
+    href="https://neon-pasca-f47941.netlify.app/"
     style={{
       color: '#111111',          // white text
       textDecoration: 'none'  // remove underline
