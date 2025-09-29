@@ -85,10 +85,10 @@ export const QuizHomePage: React.FC = () => {
                         </Typography>
                     </Link>
                     <Box sx={{ flexGrow: 1, display: 'flex', justifyContent: 'center', gap: 5 }}>
-                        <Link href="https://unique-belekoy-876e87.netlify.app/">Home</Link>
-                        <Link href="https://unique-belekoy-876e87.netlify.app/library">Library</Link>
+                        <Link href="https://lively-lokum-89d698.netlify.app">Home</Link>
+                        <Link href="https://lively-lokum-89d698.netlify.app/library/">Library</Link>
                         <Link href="#">Play Quiz</Link>
-                        <Link href="https://vocal-zuccutto-62d0b2.netlify.app/">Play Games</Link>
+                        <Link href="https://resonant-brigadeiros-e6510a.netlify.app/">Play Games</Link>
                     </Box>
                     <Button variant="contained" sx={{ bgcolor: '#111', color: '#fff', '&:hover': { bgcolor: '#333' } }}>
                         Login

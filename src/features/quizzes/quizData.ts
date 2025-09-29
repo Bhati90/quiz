@@ -1,5 +1,7 @@
 // src/components/quiz/quizData.ts
-import fraction from "../../assets/fraction.jpg"
+// import fraction from "../../assets/fraction.jpg";
+import fraction from "../../assets/fraction.png";
+
 import foodChain from "../../assets/foodChain.jpg";
 
 export interface QuizQuestion {
