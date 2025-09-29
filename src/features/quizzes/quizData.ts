@@ -1,6 +1,6 @@
 // src/components/quiz/quizData.ts
 // import fraction from "../../assets/fraction.jpg";
-import fraction from "../../assets/fraction.png";
+import fraction from "../../assets/fraction.jpg";
 
 import foodChain from "../../assets/foodChain.jpg";
 
